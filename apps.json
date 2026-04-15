@@ -13,6 +13,12 @@
       "tintColor": "019863",
       "versions": [
         {
+          "version": "build-16",
+          "date": "2026-04-15",
+          "downloadURL": "https://github.com/PndaMan/TukacoPic/releases/download/build-16/TukacoPic.ipa",
+          "size": 11382500
+        },
+        {
           "version": "build-15",
           "date": "2026-04-15",
           "downloadURL": "https://github.com/PndaMan/TukacoPic/releases/download/build-15/TukacoPic.ipa",
