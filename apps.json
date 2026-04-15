@@ -1,0 +1,26 @@
+{
+  "name": "Aidan's Dev Builds",
+  "identifier": "xyz.aetherlab.devsource",
+  "apiVersion": "2.0",
+  "sourceURL": "https://pndaman.github.io/sidestore-source/apps.json",
+  "apps": [
+    {
+      "name": "TukacoPic",
+      "bundleIdentifier": "xyz.aetherlab.tukacopic",
+      "developerName": "Aidan",
+      "subtitle": "Photo sharing app",
+      "iconURL": "https://raw.githubusercontent.com/PndaMan/TukacoPic/master/mobile/assets/icon.png",
+      "tintColor": "019863",
+      "versions": []
+    },
+    {
+      "name": "Currents",
+      "bundleIdentifier": "com.currents.app",
+      "developerName": "Aidan",
+      "subtitle": "Currents app",
+      "iconURL": "https://raw.githubusercontent.com/PndaMan/Currents/master/ios/Currents/App/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+      "tintColor": "007AFF",
+      "versions": []
+    }
+  ]
+}
