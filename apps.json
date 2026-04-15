@@ -20,7 +20,14 @@
       "subtitle": "Currents app",
       "iconURL": "https://raw.githubusercontent.com/PndaMan/Currents/master/ios/Currents/App/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
       "tintColor": "007AFF",
-      "versions": []
+      "versions": [
+        {
+          "version": "build-28",
+          "date": "2026-04-15",
+          "downloadURL": "https://github.com/PndaMan/Currents/releases/download/build-28/Currents.ipa",
+          "size": 7511601
+        }
+      ]
     }
   ]
 }
