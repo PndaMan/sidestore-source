@@ -5,6 +5,24 @@
   "sourceURL": "https://pndaman.github.io/sidestore-source/apps.json",
   "apps": [
     {
+      "name": "Cortex",
+      "bundleIdentifier": "study.cortex.app",
+      "developerName": "Aidan McConnon",
+      "subtitle": "AI study workspace for lectures, PDFs & recall.",
+      "localizedDescription": "Cortex turns your lectures, PDFs and notes into cheatsheets, flashcards and a searchable knowledge base. Unsigned dev build for LiveContainer / SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/PndaMan/cortex/mobile/src-tauri/icons/ios/AppIcon-512@2x.png",
+      "tintColor": "5FA495",
+      "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2026-06-15",
+          "downloadURL": "https://github.com/PndaMan/sidestore-source/releases/download/cortex-ios/Cortex.ipa",
+          "size": 6121582,
+          "localizedDescription": "First sideloadable iOS build (Tauri 2 mobile port)."
+        }
+      ]
+    },
+    {
       "name": "TukacoPic",
       "bundleIdentifier": "xyz.aetherlab.tukacopic",
       "developerName": "Aidan",
