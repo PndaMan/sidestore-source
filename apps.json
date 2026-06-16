@@ -14,6 +14,13 @@
       "tintColor": "5FA495",
       "versions": [
         {
+          "version": "1.0.38",
+          "date": "2026-06-16",
+          "downloadURL": "https://github.com/PndaMan/sidestore-source/releases/download/cortex-ios/Cortex.ipa",
+          "size": 9264124,
+          "localizedDescription": "Latest CI sideload build."
+        },
+        {
           "version": "1.0.37",
           "date": "2026-06-16",
           "downloadURL": "https://github.com/PndaMan/sidestore-source/releases/download/cortex-ios/Cortex.ipa",
@@ -74,13 +81,6 @@
           "date": "2026-06-16",
           "downloadURL": "https://github.com/PndaMan/sidestore-source/releases/download/cortex-ios/Cortex.ipa",
           "size": 7072986,
-          "localizedDescription": "Latest CI sideload build."
-        },
-        {
-          "version": "1.0.28",
-          "date": "2026-06-16",
-          "downloadURL": "https://github.com/PndaMan/sidestore-source/releases/download/cortex-ios/Cortex.ipa",
-          "size": 7071599,
           "localizedDescription": "Latest CI sideload build."
         }
       ]
