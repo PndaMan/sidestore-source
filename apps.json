@@ -158,6 +158,12 @@
       "tintColor": "007AFF",
       "versions": [
         {
+          "version": "build-125",
+          "date": "2026-07-05",
+          "downloadURL": "https://github.com/PndaMan/Currents/releases/download/build-125/Currents.ipa",
+          "size": 87858407
+        },
+        {
           "version": "build-124",
           "date": "2026-07-05",
           "downloadURL": "https://github.com/PndaMan/Currents/releases/download/build-124/Currents.ipa",
@@ -210,12 +216,6 @@
           "date": "2026-07-01",
           "downloadURL": "https://github.com/PndaMan/Currents/releases/download/build-95/Currents.ipa",
           "size": 9260627
-        },
-        {
-          "version": "build-94",
-          "date": "2026-06-30",
-          "downloadURL": "https://github.com/PndaMan/Currents/releases/download/build-94/Currents.ipa",
-          "size": 10118069
         }
       ]
     }
